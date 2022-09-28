@@ -17,3 +17,4 @@ here f(xi) is the predicted value or y_pred and
 
 The problem statement is given on link https://machinehack.com/practices/coefficient-of-determination-c7a0b/description
 
+The solution is given on https://github.com/AnaghaMulay/ThirtyDaysML/blob/main/Day_1_MultiLinear_Regression%20-%20CoefficientDeterminant.ipynb
