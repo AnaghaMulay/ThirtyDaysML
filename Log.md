@@ -10,4 +10,4 @@ After brushing up my basics on python and ML for almost 2 days, finally could st
 
 ### Day 1 - Multi Linear Regression Coeffecient Determinant
 
-The problem statement is to find the coeffecient Determinant for given values of X and y. I was confules with two formulae involved in calculating the coefficient of determinant, which is explained better in the read.me file. However, I was able to clear my doubts when I read the formulae properly and also, the explaination on the function regressor.score(X,y) from sklearn.linear_models Linear regression package helped me understand more.
+The problem statement is to find the coeffecient Determinant for given values of X and y. I was confules with two formulae involved in calculating the coefficient of determinant, which is explained better in the read.me file https://github.com/AnaghaMulay/ThirtyDaysML/blob/main/Day_1_MultiLinear_Regression_Coeffecient_of_Determinant.md. However, I was able to clear my doubts when I read the formulae properly and also, the explaination on the function regressor.score(X,y) from sklearn.linear_models Linear regression package helped me understand more.
